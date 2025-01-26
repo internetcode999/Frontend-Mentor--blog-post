@@ -78,6 +78,6 @@ body {
 @media screen and (max-width: 375px) {
     .blog-container {
         width: 330px;
-        min-width: 330px;
+        min-width: 330px; /* for small screens */
     }
 }
